@@ -10,3 +10,6 @@ class CodeMaker(Player):
 
     hello():
         pass
+
+    goodbye():
+        pass
