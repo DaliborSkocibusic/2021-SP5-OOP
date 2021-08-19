@@ -7,3 +7,6 @@ class CodeMaker(Player):
 
     createCode():
         pass
+
+    hello():
+        pass
